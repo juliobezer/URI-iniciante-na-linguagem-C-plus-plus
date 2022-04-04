@@ -18,7 +18,7 @@ int main() {
   qtdLitros = distTotal/kmBase;
 
   cout << fixed << setprecision(3);
-  cout << qtdLitros;
+  cout << qtdLitros << endl;
   
   return 0;
 }
